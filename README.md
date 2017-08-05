@@ -1,4 +1,4 @@
-> Work is boring, finding work on the efficiency of the work more and more relaxed and happy
+> Work is boring, finding work on the efficiency of the work more and more relaxed and happy.
 > I will share a lot of the usual use of the script, tools, hope for you can also be useful
 # Scripts Programming
 - OS: macOS Sierra 10.12.4
