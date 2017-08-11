@@ -1,11 +1,0 @@
---2017-07-21 18:27:33--  http://wttr.in/Paris_0tqp_lang=fr.png
-Resolving wttr.in... 5.9.243.177
-Connecting to wttr.in|5.9.243.177|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 4290 (4.2K) [image/png]
-Saving to: ‘Paris_0tqp_lang=fr.png’
-
-Paris_0tqp_lang=fr.png    0%[                                ]       0  --.-KB/s               Paris_0tqp_lang=fr.png  100%[===============================>]   4.19K  --.-KB/s    in 0s      
-
-2017-07-21 18:27:34 (105 MB/s) - ‘Paris_0tqp_lang=fr.png’ saved [4290/4290]
-
